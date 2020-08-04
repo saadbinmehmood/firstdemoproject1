@@ -33,3 +33,30 @@ git checkout
 
 ```
 The best search engine is [here](www.google.com)
+
+I really like the [BBC Home Page](www.bbc.com)
+
+Now creating an unordered list:
+- Git is interesting
+- You need to practice
+- This is a new concept for me
+- Trying to learning
+
+Now I will try to make an ordered list:
+1. Learning terminal is must
+2. Then leaning GitHub is must
+3. Then learning smartgit is important
+
+Now will try to make nested list:
+- Point 1
+    - nested point 1
+ - Point 2
+    - nested point 2
+      - Another point
+Task list will be given below:
+
+- [x] initial Git learniing is done
+
+- [ ] Practice still required
+
+- [ ] Book needs to be read
